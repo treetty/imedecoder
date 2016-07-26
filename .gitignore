@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+.cache
+build
+*.iml
+.idea
+
+gradle/
+/bin/
+/.gradle/
+
+test-output/
+
+.DS_Store
+pages.001
